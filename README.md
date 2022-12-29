@@ -1,3 +1,1 @@
-# mochila-de-viajem
-
-alura-armazenando-na-web
+# alura-armazenando-na-web
